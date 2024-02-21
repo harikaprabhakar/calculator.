@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../calculator"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../tribute-file"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "landing page"
+	}
+}
